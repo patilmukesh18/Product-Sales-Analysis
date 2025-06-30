@@ -29,7 +29,7 @@ To analyze and visualize sales data effectively using Power BI and deliver actio
 ## 📷 Screenshots
 
 ### 🔍 Sales Analysis Dashboard
-![Sales Dashboard](./https://github.com/patilmukesh18/Product-Sales-Analysis/blob/main/Screenshot%202025-06-30%20114237.png)
+![Sales Dashboard](/https://github.com/patilmukesh18/Product-Sales-Analysis/blob/main/Screenshot%202025-06-30%20114237.png)
 
 ---
 
