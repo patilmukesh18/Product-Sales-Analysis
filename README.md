@@ -13,6 +13,7 @@ To analyze and visualize sales data effectively using Power BI and deliver actio
 - Regional analysis
 - Product-level trends
 
+---
 
 ## 📌 Dashboard Highlights
 
